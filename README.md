@@ -5,6 +5,9 @@ This repository is a json wrapper for libsqlite3.
 
 The easy way of using it is, clone this repository then run the example program.
 
+# Requirements
+- libsqlite3
+- libjansson
 
 # Example
 <pre><code>
